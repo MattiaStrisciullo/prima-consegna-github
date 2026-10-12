@@ -1,6 +1,5 @@
 <?php
 
-
 $base = $_POST['base'];
 $altezza = $_POST['altezza'];
 
@@ -12,7 +11,5 @@ $area = $base * $altezza;
 
 echo " perimetro  è: " . $perimetro . "<br>";
 echo "area  è: " . $area;   
-
-
 
 ?>
